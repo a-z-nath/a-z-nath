@@ -2,7 +2,7 @@
 
 **4th-year CS Student at SUST** | **Fullstack Developer**
 
-🚀 Love ***building new things*** and ***fixing*** broken ones! Feel great about ***learning new things!***
+🚀 Love ***building new things*** and ***fixing broken ones!*** Feel great about ***learning new things!***
 
 ## 💻 Tech Stack
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
